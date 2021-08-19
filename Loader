@@ -1,6 +1,9 @@
 local Hub = {
     [4620170611] = {
-        [1] = "https://raw.githubusercontent.com/ImNotDoris/Dor-X-Hub-Script/main/Break%20In%20Story", --Break In Story
+        [1] = "https://raw.githubusercontent.com/ImNotDoris/Dor-X-Hub-Script/main/Break%20In%20Story", --[[Break In Story]]--
+    },
+    [2248408710] = {
+        [1] = "https://raw.githubusercontent.com/ImNotDoris/Dor-X-Hub-Script/main/Destruction%20Simulator", --[[Destruction Simulator]]--
     },
 }
 
